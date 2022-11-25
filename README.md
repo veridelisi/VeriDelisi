@@ -9,7 +9,7 @@ setState Economist
 Economist, try to learn solidity and react
 
 *   🌍  I'm based in Turkey
-*   🧠  I'm learning Solidity  and React Skills 
+*   🧠  I'm learning Solidity  and React 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
